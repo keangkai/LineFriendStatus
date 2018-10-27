@@ -1,0 +1,2 @@
+# LineFriendStatus
+Line Friend Status
